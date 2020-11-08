@@ -5,11 +5,11 @@
 
 
 # Link to Data Files
-[covid_counts.tsv](https://data.wprdc.org/datastore/dump/0f214885-ff3e-44e1-9963-e9e9062a04d1)
+[covid_counts.tsv](https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths/resource/0f214885-ff3e-44e1-9963-e9e9062a04d1)
 
 [firearms_data.csv](https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4)
 
-[result_deaths.csv](https://data.wprdc.org/dataset/ee735209-4de7-4ea4-b446-bf0f0f6d9cb3/resource/c2e1500a-a12a-4e91-be94-76c6a892b7e2/download/nhoodmedianage20112015.csv"result_deaths.csv)
+[result_deaths.csv](https://data.wprdc.org/dataset/median-age-death)
 
 # Metrics (By Neighborhood):
 
