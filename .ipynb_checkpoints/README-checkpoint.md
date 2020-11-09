@@ -4,35 +4,31 @@
 ### Team Members: Emily Kyle (EKK25@pitt.edu), Kyra Schultz (KDS85@pitt.edu), Caleb Tsai (CAT106@pitt.edu)
 
 
-# Link to Data Files
-[covid_counts.tsv](https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths/resource/0f214885-ff3e-44e1-9963-e9e9062a04d1)
+# Link to Data Files:
+Public Health and Safety Metric: [covid_counts.tsv](https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths/resource/0f214885-ff3e-44e1-9963-e9e9062a04d1)
 
-[firearms_data.csv](https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4)
+Level of Danger Metric: [firearms_data.csv](https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4)
 
-[result_deaths.csv](https://data.wprdc.org/dataset/median-age-death)
+Average Lifespan Metric: [result_deaths.csv](https://data.wprdc.org/dataset/median-age-death)
 
 # Metrics (By Neighborhood):
 
 ## 1. Public Safety and Health (Covid-19)
-### covid_counts.tsv
+### [covid_counts.tsv](https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths/resource/0f214885-ff3e-44e1-9963-e9e9062a04d1)
 ### Number of Covid-19 Cases per 100 Individuals Tested
 
 ## 2. Level of Danger 
-### firearms_data.csv
+### [firearms_data.csv](https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4)
 ### Number of Gun Seizures
 
 ## 3. Average Lifespan
-### result_deaths.csv
+### [result_deaths.csv](https://data.wprdc.org/dataset/median-age-death)
 ### Median Age of Death
 
 # Abstract
 
-Abstract: A TLDR summary of the findings of the project. Answer to the question: What is the best neighborhood? And How did you determine that answer (brief summary of metrics)
+We believe that Manchester is the best "worst" Pittsburgh neighborhood to live in according to three datasets from the WPRDC. The first factor is COVID-19 and its public health implications, taken from the "COVID-19 Counts by Municipality and Neighborhood" dataset and measures the number of Covid-19 cases per 100 individuals tested by each neighborhood. The next factor is gun violence from the "Firearm Seizures Data" source which identifies the cumulative number of gun seizures by neighborhood. Finally, the "Allegheny County Median Age at Death" data shows which neighborhoods have the lowest average lifespan by listing the lowest median age of death per neighborhood. 
 
-Overall, we determnined that the "best" worst neighborhood can be determined by:
-
-(FINISH SUNDAY AFTERNOON)
-
-We chose to answer the question of which Pittsburgh neighborhood is the most dangerous place to live in based on three datasets from the WPRDC. The first factor we chose was COVID-19 and its public health implications, taken from the "COVID-19 Counts by Municipality and Neighborhood" dataset, by calculating the number of Covid-19 cases per 100 individuals tested by neighborhood. The next factor we looked into was gun-violence, from the "Firearm Seizures Data" source, by finding the total numer of gun seizures by neighborhood. Finally, we used the "Allegheny County Median Age at Death" data to determine which neighborhoods had the lowest average lifespan, by finding the lowest median age of death per neighborhood. Overall, we concluded that the most dangerous neighborhood in Pittsburgh would be the one that has the greatest overlap of the most covid cases, the most firearms being seized, and the lowest median age at death. We ultimately arrived at our conclusion by sorting each of the datasets in decreasing order from top to bottom, ranking the top 35 neighborhoods in each set by assigning "ranks" from 1 (top) to 35 (bottom), finding which neighborhoods had overlap in each of the 3 categories, and ultimately arriving at our "best" neighborhood by identifying which of the overlapped neighborhoods had the lowest score: Manchester.
+We conclude that the most dangerous neighborhood in Pittsburgh is the one with the greatest overlap of most Covid-19 cases, most firearms seized, and lowest median age at death. These individual metrics are combined by first sorting each of the datasets in decreasing order from top to bottom and ranking the top 35 neighborhoods in each set from 1 (top) to 35 (bottom). Consequently, the neighborhood with overlap in all 3 categories and has the lowest score is the "best" worst neighborhood in Pittsburgh: Manchester. 
 
 
